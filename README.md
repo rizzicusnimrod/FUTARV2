@@ -12,7 +12,7 @@ Sajnos a hosszú távú elkötelezettség és a folyamatosan növekvő munka mia
 ## Miért Töltöm Fel
 A célom az, hogy a projektet nyilvánossá tegyem, így lehetőséget adok más fejlesztőknek is arra, hogy hozzájáruljanak a munkához. Bízom benne, hogy a közösség együttes erejével a FUTÁR projekt valóra válhat, és egy működőképes, hasznos rendszert hozhatunk létre.
 
-Tutorialokat és hasonló útmutatókat nem tervezek leírni, mert aki érti a Lua programozást, annak képesnek kell lennie a kódok megértésére. Eddigi munkám elég különös módon lett megoldva, de remélem, hogy ez nem akadályozza meg a projekt folytatását.
+Tutorialokat és hasonló útmutatókat nem tervezek leírni, mert aki érti a Lua programozást, annak képesnek kell lennie a kódok megértésére.
 
 ## Licenc
 Ez a projekt a [saját egyedi licencem](https://github.com/rizzicusnimrod/FUTARV2/blob/main/LICENC.md) alatt áll.
