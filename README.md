@@ -1,18 +1,21 @@
+# 🚍 FUTÁR Projekt
 
-# FUTÁR Projekt
+## 📜 Leírás
+A **FUTÁR Projekt** a BKK által használt valós idejű tömegközlekedési információs rendszer Roblox változata. A projekt célja, hogy a felhasználók **Lua programozási ismeretek nélkül** integrálhassák a FUTÁRT saját Roblox játékaikba, lehetővé téve számukra, hogy **megállókat, menetrendeket és útvonalakat** készítsenek.
 
-## Leírás
-Ez a projekt a FUTÁR egy Roblox változata, amely a BKK által használt információs rendszert próbálja modellezni. Az eredeti célom az volt, hogy az emberek mindenféle Lua tudás nélkül tudják a FUTÁRT beilleszteni saját játékukba, és megállókat, menetrendeket, valamint vonalakat készíteni.
+## 🔧 Háttér
+Évek óta dolgozom ezen a projekten, és többször újrakezdtem a fejlesztést a nulláról. Az idők során közel **1,000 sor kódot** írtam, de sajnos a tervezett funkciók közül eddig csak **egynegyedével** végeztem.
 
-## Háttér
-A FUTÁR projekt fejlesztését évek óta folytatom, és ez idő alatt számos alkalommal újrakezdtem a munkát a nulláról. A folyamat során közel 1,000 sor kódot írtam, azonban a projekt jelenlegi állapotában még csak a bevezető lépéseknél tartok, és csak a fejlesztés egynegyedével *(sem)* végeztem. A projekt megvalósítása során rengeteget tanultam a Lua programozásról és a Roblox fejlesztésről.
+A fejlesztési folyamat során rengeteget tanultam a **Lua programozásról** és a **Roblox fejlesztésről**, de a folyamatos munka és a növekvő terhek miatt belefáradtam, és nehezen tudom tartani az elköteleződést. Ezért döntöttem úgy, hogy feltöltöm a projektet a GitHubra, bízva abban, hogy más is hozzátesz, és befejezi, amit elkezdtem.
 
-Sajnos a hosszú távú elkötelezettség és a folyamatosan növekvő munka miatt kezdtem belefáradni a projektbe. Ebből kifolyólag úgy döntöttem, hogy feltöltöm a GitHubra, hátha valaki más inspirációt merít belőle, és befejezi azt, amit én elkezdtem.
+## 🌍 Miért teszem nyilvánossá?
+A projekt publikálásával remélem, hogy más fejlesztők is **hozzájárulnak** és **együttműködnek**. Bízom benne, hogy a Roblox közösség segítségével közösen létrehozhatunk egy teljesen működő és hasznos rendszert, amely tükrözi a valódi FUTÁR működését.
 
-## Miért Töltöm Fel
-A célom az, hogy a projektet nyilvánossá tegyem, így lehetőséget adok más fejlesztőknek is arra, hogy hozzájáruljanak a munkához. Bízom benne, hogy a közösség együttes erejével a FUTÁR projekt valóra válhat, és egy működőképes, hasznos rendszert hozhatunk létre.
+Nem tervezek részletes útmutatókat írni, mivel a **Lua programozás** ismeretével rendelkezőknek képesnek kell lenniük megérteni a kódot. A projekt felépítése lehetővé teszi, hogy tapasztalt fejlesztők könnyedén folytathassák a munkát.
 
-Tutorialokat és hasonló útmutatókat nem tervezek leírni, mert aki érti a Lua programozást, annak képesnek kell lennie a kódok megértésére.
+## 📄 Licenc
+Ez a projekt a saját [**egyedi licencem**](https://github.com/rizzicusnimrod/FUTARV2/blob/main/LICENC.md) alatt áll. Szabadon használhatod, módosíthatod és terjesztheted a kódot, amennyiben a licenc feltételei szerint megfelelően megjelölöd a szerzőt.
 
-## Licenc
-Ez a projekt a [saját egyedi licencem](https://github.com/rizzicusnimrod/FUTARV2/blob/main/LICENC.md) alatt áll.
+---
+
+**Javaslatokat és hozzájárulásokat szívesen fogadok! Építsünk valami nagyszerűt együtt!**
