@@ -11,8 +11,6 @@ A fejlesztési folyamat során rengeteget tanultam a **Lua programozásról** é
 ## 🌍 Miért teszem nyilvánossá?
 A projekt publikálásával remélem, hogy más fejlesztők is **hozzájárulnak** és **együttműködnek**. Bízom benne, hogy a Roblox közösség segítségével közösen létrehozhatunk egy teljesen működő és hasznos rendszert, amely tükrözi a valódi FUTÁR működését.
 
-Nem tervezek részletes útmutatókat írni, mivel a **Lua programozás** ismeretével rendelkezőknek képesnek kell lenniük megérteni a kódot. A projekt felépítése lehetővé teszi, hogy tapasztalt fejlesztők könnyedén folytathassák a munkát.
-
 ## 📄 Licenc
 Ez a projekt a saját [**egyedi licencem**](https://github.com/rizzicusnimrod/FUTARV2/blob/main/LICENC.md) alatt áll. Szabadon használhatod, módosíthatod és terjesztheted a kódot, amennyiben a licenc feltételei szerint megfelelően megjelölöd a szerzőt.
 
